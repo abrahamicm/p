@@ -1,1 +1,1 @@
-https://github.com/abrahamicm/p/cumple.html
+https://abrahamicm.github.io/p/cumple.html
